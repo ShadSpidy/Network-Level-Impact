@@ -4,9 +4,9 @@ st.title("Network Level Impact Calculator")
 st.subheader("By: Shadman")
 
 # Getting user inputs
-total_traffic = st.number_input("Enter the Total Traffic:", min_value=0.0, step=0.1)
-impacted_node_traffic = st.number_input("Enter the Traffic catered by impacted nodes:", min_value=0.0, step=0.1)
-percentage_impact = st.number_input("Enter the current percentage impact (%):", min_value=0.0, max_value=100.0, step=0.1)
+total_traffic = st.number_input("Enter the Total Traffic:")
+impacted_node_traffic = st.number_input("Enter the Traffic catered by impacted nodes:")
+percentage_impact = st.number_input("Enter the current percentage impact (%):")
 
 # Calculation
 if st.button("Calculate"):
