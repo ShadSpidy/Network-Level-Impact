@@ -1,7 +1,6 @@
 import streamlit as st
 
 st.title("Network Level Impact Calculator")
-st.subheader("By: Shadman")
 
 # Getting user inputs with validation
 try:
@@ -18,4 +17,7 @@ try:
             st.error("Total Traffic must be greater than zero.")
 except ValueError:
     st.error("Please enter valid numerical values.")
+
+# Footer credit
+st.markdown("**Created by: Shadman**", unsafe_allow_html=True)
 
