@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Set page configuration
-st.set_page_config(page_title="Network Impact Calculator", layout="wide")
+st.set_page_config(page_title="Network Level Impact Calculator", layout="wide")
 
 # Add custom CSS to make it look darker
 st.markdown(
