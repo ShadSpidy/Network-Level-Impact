@@ -45,7 +45,7 @@ try:
     if st.button("Calculate"):
         if total_traffic > 0:
             NW_level_impact = ((impacted_node_traffic / total_traffic) * 100) * (percentage_impact / 100)
-            st.write(f"Current Network Level Impact is {NW_level_impact:.2f}%")
+            sst.markdown(f"<h3 style='font-size:18px;'>Current Network Level Impact is: {round(NW_level_impact, 2)}%</h3>", unsafe_allow_html=True)
         else:
             st.error("Total Traffic must be greater than zero.")
 except ValueError:
