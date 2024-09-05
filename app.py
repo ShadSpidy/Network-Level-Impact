@@ -52,5 +52,5 @@ except ValueError:
     st.error("Please enter valid numerical values.")
 
 # Footer credit
-st.markdown("**Created by: Shadman**", unsafe_allow_html=True)
+st.markdown("**Created by: Neha's Daddy**", unsafe_allow_html=True)
 
