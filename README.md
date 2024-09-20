@@ -32,9 +32,10 @@ A Streamlit app to calculate the network level impact based on traffic data, des
 ## Live Demo
 
 - Check out the live demo of the app [here](https://network-level-impact.streamlit.app/).
-
+  
 ## Author
 
 - **Created by:** Shadman
+- **Email:** shadmanakhter78@gmail.com
 
 Feel free to reach out for feedback!
