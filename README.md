@@ -14,8 +14,24 @@ A Streamlit app to calculate the network level impact based on traffic data, des
 - **Streamlit**
 - **HTML/CSS** for styling
 
-#Clone the repository:
+How to Use
+Open the app in your web browser.
+Enter the total traffic, impacted node traffic, and current percentage impact.
+Click "Calculate" to see the network level impact.
+Live Demo
+Check out the live demo of the app here.
+
+Author
+Created by: Shadman
+
+Feel free to reach out for feedback!
+
+##Clone the repository:
    ```bash
    https://github.com/yourusername/network-level-impact-calculator.git
+
+   
+
+
    
 
