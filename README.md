@@ -35,7 +35,7 @@ A Streamlit app to calculate the network level impact based on traffic data, des
   
 ## Author
 
-- **Created by:** Shadman
+- **Created by:** Shadman Akhter
 - **Email:** shadmanakhter78@gmail.com
 
 Feel free to reach out for feedback!
