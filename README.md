@@ -17,12 +17,5 @@ A Streamlit app to calculate the network level impact based on traffic data, des
 #Clone the repository:
    ```bash
    https://github.com/yourusername/network-level-impact-calculator.git
-
-
-
-Author
-Created by: Shadman
-
-Feel free to reach out for feedback!
    
 
